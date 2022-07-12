@@ -10,7 +10,7 @@ I also added a destroy actor objective which wasnt in the original version.
 
 Press tab to open the quest log.
 
-Known bugs:
-You need to click on the viewport to close the quest screen again.
+**Known bugs:**
+You need to click on the viewport and then tab to close the quest screen again.
 
 
