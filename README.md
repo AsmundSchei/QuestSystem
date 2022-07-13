@@ -1,6 +1,5 @@
 # Quest system
  Quest system for UE5
-![QuestSystem](https://user-images.githubusercontent.com/2607194/178560828-482e2a1b-d295-42d0-b6cb-821624e8f18e.PNG)
 
 ![Capture](https://user-images.githubusercontent.com/2607194/178618393-ed920416-61d6-4b5a-98e0-7a40f03bbf9b.PNG)
 
