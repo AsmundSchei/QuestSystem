@@ -9,10 +9,11 @@ With permission from Reid, I uploaded a quest system based of his tutorials. The
 I also added a destroy actor objective which wasnt in the original version. 
 
 To see how this is done, you can watch a 4 part tutorial on his channel:
-https://www.youtube.com/watch?v=vYL1cjOZKGQ
-https://www.youtube.com/watch?v=iGAyV1M3XNQ
-https://www.youtube.com/watch?v=iE2VMS5jc7M
-https://www.youtube.com/watch?v=fZT3rViS4Tc
+
+* Part 1: https://www.youtube.com/watch?v=vYL1cjOZKGQ
+* Part 2: https://www.youtube.com/watch?v=iGAyV1M3XNQ
+* Part 3: https://www.youtube.com/watch?v=iE2VMS5jc7M
+* Part 4: https://www.youtube.com/watch?v=fZT3rViS4Tc
 
 
 Press tab to open the quest log.
