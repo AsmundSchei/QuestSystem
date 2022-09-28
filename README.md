@@ -8,7 +8,7 @@
 With permission from Reid, I uploaded a quest system based of his tutorials. The purpose is to have a updated version for UE5.
 I also added a destroy actor objective which wasnt in the original version. 
 
-To see how this is done, you can watch a 4 part tutorial on his channel:
+To see how this is done, you can watch his 4 part tutorial
 
 * Part 1: https://www.youtube.com/watch?v=vYL1cjOZKGQ
 * Part 2: https://www.youtube.com/watch?v=iGAyV1M3XNQ
